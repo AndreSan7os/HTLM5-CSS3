@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+#title, .subtitle, .post_title
+{
+    color: blue;
+}
